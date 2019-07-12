@@ -1,1 +1,36 @@
 /* All styles for your header Components live here */
+.HeaderContainer {
+    /* background-color: gray; */
+    width: 100%;
+    display: flex;
+}
+
+.thumbnail {
+    width: 47px;
+    height: 47px;;
+    border-radius: 50%;
+    margin-left: 11px;
+    margin-top: 9px;
+}
+
+.headerText {
+    /* background-color: red; */
+    padding: 10px;
+}
+
+h5 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 0.9rem;
+}
+
+.userName {
+    color: #A6B2BB;
+    font-weight: normal;
+}
+
+.headerContent {
+    margin: 0;
+    margin-top: 10px;
+    font-size: 0.9rem;
+}

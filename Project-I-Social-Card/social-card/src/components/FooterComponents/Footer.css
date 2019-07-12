@@ -1,0 +1,17 @@
+
+.footer {
+    /* background-color: red; */
+    width: 89.3%;
+    margin: 0;
+    margin-left: 70px;
+    display: flex;
+}
+
+.icon {
+    margin-top: 20px;
+    width: 260px;
+}
+
+img {
+    width: 100%;
+}
